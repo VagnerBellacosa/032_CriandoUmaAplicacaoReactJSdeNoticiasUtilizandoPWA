@@ -8,3 +8,5 @@ Neste projeto você terá o desafio de criar uma página de notícias como Forbe
 
 #### Bruno Carneiro
 Front-End Architect, Paketá Crédito
+
+https://web.digitalinnovation.one/lab/criando-uma-aplicacao-reactjs-de-noticias-utilizando-pwa/learning/49551799-0d5c-4e2b-92a0-a3b56746fab6
